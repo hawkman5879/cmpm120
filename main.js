@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 var game = new Phaser.Game(800, 600, Phaser.AUTO);
-var i = 2;
-=======
->>>>>>> NDA
+var i = 3;
 // define MainMenu state and methods
 var MainMenu = function(game) {};
 MainMenu.prototype = {
