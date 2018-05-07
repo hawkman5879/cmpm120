@@ -1,6 +1,6 @@
 
 var gam = new Phaser.Game(800, 600, Phaser.AUTO);
-var i = 3;
+var i = 4;
 // define MainMenu state and methods
 var MainMenu = function(game) {};
 MainMenu.prototype = {
@@ -11,7 +11,7 @@ MainMenu.prototype = {
 	},
 	update: function() {
 		// main menu logic
-		if (i = 4)
+		if (i = 3)
 			console.log("we Op");
 		}
 	
