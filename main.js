@@ -11,7 +11,10 @@ MainMenu.prototype = {
 	},
 	update: function() {
 		// main menu logic
-		if (i = 3)
+<<<<<<< HEAD
+		if (i = 4)
+=======
+>>>>>>> XYZ
 			console.log("we Op");
 		}
 	
